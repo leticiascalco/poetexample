@@ -1,0 +1,41 @@
+{
+  "class": "AssingmentCommercialFormat",
+  "formats": [
+    {
+      "name": "IdProdToEValues",
+      "fields": [
+        { "name": "productId", "dataType": "kotlin.Long?", "length": 4 }
+      ]
+    },
+    {
+      "name": "FlgPersoEValues",
+      "fields": [
+        { "name": "flgPerson", "dataType": "kotlin.String?", "length": 1 }
+      ]
+    },
+    {
+      "name": "NewCanalEValues",
+      "fields": [
+        { "name": "originChannel", "dataType": "kotlin.String?", "length": 2 }
+      ]
+    },
+    {
+      "name": "AgenciaEValues",
+      "fields": [
+        { "name": "agency", "dataType": "kotlin.String?", "length": 4 }
+      ]
+    },
+    {
+      "name": "SegmentoEValues",
+      "fields": [
+        { "name": "segment", "dataType": "kotlin.String?", "length": 1 }
+      ]
+    },
+    {
+      "name": "IdPropFieValues",
+      "fields": [
+        { "name": "legacyNumber", "dataType": "kotlin.String?", "length": 8 }
+      ]
+    }
+  ]
+}
