@@ -38,3 +38,8 @@ As classes geradas estarão disponíveis no diretório src/main/kotlin/com/br/po
 
 Depois disso, compile e rode o projeto com os comandos ./gradlew clean build e ./gradlew bootRun. 
 Com o servidor rodando, você poderá acessar o endpoint http://localhost:8080/trancode no navegador ou em ferramentas como o Postman para visualizar a string posicional gerada.
+
+## Referências
+https://square.github.io/kotlinpoet/1.x/kotlinpoet/kotlinpoet/com.squareup.kotlinpoet/index.html
+
+https://square.github.io/kotlinpoet/
